@@ -25,13 +25,13 @@ def record_audio(filename, stop_event, audio_queue):
                         rate=RATE, input=True,
                         frames_per_buffer=CHUNK)
 
-    print("Recording... Press return key to stop.")
+    print("Press enter to finish recording.")
 
     while not stop_event.is_set():
         data = stream.read(CHUNK)
         audio_queue.put(data)
 
-    print("Finished recording")
+    print("Recording finished.")
 
     stream.stop_stream()
     stream.close()
