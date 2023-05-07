@@ -1,10 +1,10 @@
-#**GPT-Sarcastic-Whisper**
+# **GPT-Sarcastic-Whisper**
 
 Welcome to the GPT-Sarcastic-Whisper repository! This project showcases a simple Python script for interacting with GPT models using OpenAI's Whisper ASR API and ElevenAI's TTS API. Record your questions and get sarcastic responses from the chatbot using voice input and output.
 Table of Contents
 
 
-####Installation
+#### Installation
 
 Clone the repository:
 
@@ -20,7 +20,7 @@ Replace the placeholder API keys in the script with your own:
 
     openai.api_key = "sk-XXXXXXXXXXXXXXX"
 
-####Usage
+#### Usage
 
 Run the main script:
 
@@ -30,7 +30,7 @@ Follow the instructions in the terminal to record your audio and receive sarcast
 
 Press the return key to stop recording and let the script transcribe your question, generate a response, and play it back using text-to-speech.
 
-####Acknowledgements
+#### Acknowledgements
 
     OpenAI Whisper ASR API for speech recognition.
     OpenAI GPT-3.5-turbo for generating sarcastic chatbot responses.
