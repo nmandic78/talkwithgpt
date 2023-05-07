@@ -18,6 +18,7 @@ Get API keys for OpenAI and ElevenAI.
 Replace the placeholder API keys in the script with your own:
 
     openai.api_key = "sk-XXXXXXXXXXXXXXX"
+    api_key="XXXXXXXXXXXXXXX" # register for free and put your own (even though you have some small number of requests without your API key)
 
 #### Usage
 
