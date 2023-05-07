@@ -3,9 +3,6 @@ GPT-Sarcastic-Whisper
 Welcome to the GPT-Sarcastic-Whisper repository! This project showcases a simple Python script for interacting with GPT models using OpenAI's Whisper ASR API and ElevenAI's TTS API. Record your questions and get sarcastic responses from the chatbot using voice input and output.
 Table of Contents
 
-    Installation
-    Usage
-    Acknowledgements
 
 Installation
 
