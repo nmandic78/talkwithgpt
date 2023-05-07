@@ -1,0 +1,6 @@
+openai
+elevenlabs
+playsound
+pygobject
+pyaudio
+protobuf==3.20.*
