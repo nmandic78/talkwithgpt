@@ -24,7 +24,7 @@ Replace the placeholder API keys in the script with your own:
 
 Run the main script:
 
-    python main.py
+    python talk_with_GPT.py
 
 Follow the instructions in the terminal to record your audio and receive sarcastic responses from the chatbot.
 
