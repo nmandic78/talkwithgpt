@@ -7,7 +7,7 @@ This POC showcases a simple Python script for interacting with GPT models using 
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/GPT-Sarcastic-Whisper.git
+    git clone https://github.com/nmandic78/talkwithgpt.git
 
 Install the required dependencies:
 
